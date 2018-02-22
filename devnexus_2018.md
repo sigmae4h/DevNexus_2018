@@ -54,6 +54,40 @@ Sabby Anandan @11:15 - A305
 #### How to Hire Good Programmers
 Jennifer Bland @13:15 - A311
 
+1. Normal interview process is suboptimal
+  * Coding challenge
+  * Whiteboard
+  * Phone screens
+2. Should do:
+  * Stop at home coding challenges, standing up new projects / frameworks is a rare experience
+  * Use short coding exercise, broken down like below (simple questions)
+    1. HTML/CSS
+      * Differance between id and class?
+      * What does the box model refer to in CSS?
+      * What are reset css file and normalize.css?
+    2. JavaScript/jQuery
+    3. Node.js
+  * Allows objective scoring system based on answer details
+  * Provide code sample, ask for simple manipulation
+  * Building on the previous questions, add challenge to make more difficult
+  * Create standard questions, share them with other interviewers
+    * Can fabricate checklist of possible answer details
+    * Consistency is the key
+    * Decide on minimum score
+      1. Does the canidate meet?
+      2. How do they compare to other canidates?
+      3. Resolution of same score
+3. Have casual conversation
+  * Non-threatening, non-challenging environment
+  * Ask about preferences (Eg: Do you prefer Sass or LESS? Why?)
+  * Ask about the tests they would write for a given scenario
+  * Indicates character, motivations, ext
+4. Resources
+  * [www.codeprep.io](https://www.codeprep.io)
+  * [www.in5days.tech](http://www.in5days.tech)
+  * YouTube: jenniferbland
+  * @ratracegrad
+
 #### Sifting Technologies - Separating the Wheat From the Chaff
 Nathaniel Schutta @14:30 - A403
 

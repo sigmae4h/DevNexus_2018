@@ -85,14 +85,14 @@ Jennifer Bland @13:15 - A311
 4. Resources
   * [www.codeprep.io](https://www.codeprep.io)
   * [www.in5days.tech](http://www.in5days.tech)
-  * YouTube: jenniferbland
-  * @ratracegrad
+  * YouTube: [jenniferbland](https://www.youtureb.com/c/jenniferbland)
+  * Twitter: @ratracegrad
 
 #### Sifting Technologies - Separating the Wheat From the Chaff
 Nathaniel Schutta @14:30 - A403
 
 #### Modern software craftsmanship
-Nathaniel Schutta @15:45 - A311
+Daniel Irvine @15:45 - A311
 
 #### A Look Back at Enterprise Integration Patterns and Their Use into Today's Serverless Computing
 Bruno Borges @17:00 - A404

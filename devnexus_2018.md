@@ -2,8 +2,7 @@
 
 ### Feb 22
 #### Software architecture for developers
-Simon Brown
-@10:00 - A403
+Simon Brown @10:00 - A403
 
 1. Not big design up front
   * Usual pattern: Big design vs. Nothing
@@ -40,24 +39,29 @@ Simon Brown
   * Book: Clean Architecture, Uncle Bob
 
 #### Continuous Delivery for Data Pipelines
-Sabby Anandan
-@11:15 - A305
+Sabby Anandan @11:15 - A305
+
+1. Spring Cloud Data Flow
+  * Data Integration
+    * Source -> Process -> Sink
+  * DSL inspired by Unix pipes and filters
+  * Easy to use different technologies
+  * Difficult to change properties (flow) while running
+2. Spring Cloud Skipper
+  * Allows real-time flow manipulation
+  * Rollback supported
 
 #### How to Hire Good Programmers
-Jennifer Bland
-@13:15 - A311
+Jennifer Bland @13:15 - A311
 
 #### Sifting Technologies - Separating the Wheat From the Chaff
-Nathaniel Schutta
-@14:30 - A403
+Nathaniel Schutta @14:30 - A403
 
 #### Modern software craftsmanship
-Nathaniel Schutta
-@15:45 - A311
+Nathaniel Schutta @15:45 - A311
 
 #### A Look Back at Enterprise Integration Patterns and Their Use into Today's Serverless Computing
-Bruno Borges
-@17:00 - A404
+Bruno Borges @17:00 - A404
 
 
 ### Feb 23

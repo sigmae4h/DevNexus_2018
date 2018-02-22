@@ -96,7 +96,7 @@ Nathaniel Schutta @14:30 - A403
   * Core skill
   * Technology continuously changes
   * _Old_ tech isn't always bad
-2. Find where *not* to use tech
+2. Find where **not** to use tech
   * Trial and error
   * Develop expertise
 3. Don't constantly change direction
@@ -177,6 +177,24 @@ Daniel Irvine @15:45 - A311
 
 #### A Look Back at Enterprise Integration Patterns and Their Use into Today's Serverless Computing
 Bruno Borges @17:00 - A404
+
+1. What is Serverless?
+  * Abstraction of servers
+  * Event driven / instant scale
+  * Micro billing
+  * Evolution: hardware -> virtualisation -> kuberneties -> serverless platform
+  * How?
+    * Kubeless
+    * Apache OpenWhisk
+    * OpenFaaS
+    * Fn Project
+    * Cloud (AWS Lambda, Azure Functions, Google Cloud Functions)
+  * Demo 1: Running a Java function from Azure Functions
+2. What is EIP?
+  * IF (this) THEN that;
+  * Address common integration problems through messaging
+  * Apache Camel: Framework that makes integrations easier
+  * Book: Enterprise Integration Patterns
 
 
 ### Feb 23

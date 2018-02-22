@@ -91,6 +91,60 @@ Jennifer Bland @13:15 - A311
 #### Sifting Technologies - Separating the Wheat From the Chaff
 Nathaniel Schutta @14:30 - A403
 
+1. Challenge: Evaluate tech
+  * Core skill
+  * Technology continuously changes
+  * _Old_ tech isn't always bad
+2. Find where *not* to use tech
+  * Trial and error
+  * Develop expertise
+3. Don't constantly change direction
+  * Have a strategy
+  * Explore communities
+  * Read books
+  * Develop a routine
+  * Be selective, don't waste attention
+  * If something is important enough, you will hear about it
+4. Knowing where to invest your time
+  * Don't relay on hunches
+  * Beware of bias
+  * Look at community consensus
+  * Resource: ThoughtWorks Technology Radar
+  * 20% time / Friday "hack time" / tech talk day
+  * Architectural briefings
+    * Why use a tech?
+    * Not a howto
+    * Keep it short (45 min or so)
+    * What problems does this not solve?
+    * Keep the message simple
+    * Everyone must participate
+5. Understand trade-offs
+  * Heart of design
+  * Always alternatives
+  * Understand all costs
+6. Implement
+  * Workshop
+  * Make it easy
+7. Stay current in tech
+8. Snowflakes are not safe: Rotate, Repair, Repave
+  * Update versions
+  * Patching strategy
+  * N, or N-1, software (dependency) version policy
+    * Measure and enforce
+9. Determine what to evaluate (critical properties)
+  * Documentation
+  * Codebase
+  * Maturity
+  * Upgrade path
+  * Frequency of updates
+  * Stability
+  * Ability to add
+  * Support
+  * Training
+  * Developer / team interest
+  * Corporate fit
+  * Licensing
+
 #### Modern software craftsmanship
 Daniel Irvine @15:45 - A311
 

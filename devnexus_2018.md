@@ -148,6 +148,32 @@ Nathaniel Schutta @14:30 - A403
 #### Modern software craftsmanship
 Daniel Irvine @15:45 - A311
 
+1. Focus on high quality product
+2. Modern relevance
+  * Quality
+    * Not important for most of the industry
+    * Quality Assurance: An admittance that developers are not good at quality
+    * Not something that most users can see
+    * Very important to longevity, ability to change
+    * Measure is not: Coverage, linting, or documentation
+  * Professionalism
+    * Responsibility
+    * Pride in work
+  * Community
+    * Life long learners
+    * Deliberate practice
+    * Mentoring
+    * Not about "years of experience"
+    * Sponsorship
+3. European Communities
+  * SoCraTes
+  * Codebar
+  * Ladies of Code
+  * Queer Code
+4. Future
+  * Industry ethics
+  * Socially responsible software
+
 #### A Look Back at Enterprise Integration Patterns and Their Use into Today's Serverless Computing
 Bruno Borges @17:00 - A404
 

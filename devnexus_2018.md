@@ -201,6 +201,23 @@ Bruno Borges @17:00 - A404
 #### SSL/TLS for mortals
 Maarten Mulders @10:00 - A313
 
+1. Why bother?
+  * Using SSL correctly is often hard to achieve
+  * Critical for secure connection between systems
+2. Security in the Transport layer
+  * TLS safe versions 1.1 & 1.2
+  * Anyone can intercept http traffic
+  * Implementation
+    1. Pubic / private key encryption
+      * RSA most frequently used encryption algorithm
+    1. Signed certificates
+    1. Certificate Authority
+  * Distrust self signed certificates
+3. Tools
+  * `curl -v -k <address>`
+  * `openssl s_client -showcerts -servername <address> -connect <address>:443`
+  * `-Djavax.net.ssl.keystore=<file>`
+
 #### Enable IoT with Edge Computing and Machine Learning
 Jared Rhodes @11:15 - A305
 

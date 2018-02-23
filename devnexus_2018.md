@@ -310,7 +310,7 @@ James Weaver @15:45 - A403
   * hidden layers
   * Output layers
 * Library: deepLearningForJ
-  * [deeplearningforj.org](http://www.deeplearningforj.org)
+  * [deeplearning4j.org](https://deeplearning4j.org)
 * Three blue one brown
 * Back propagation: training the network
 * **Book**: Make Your Own Neural Network

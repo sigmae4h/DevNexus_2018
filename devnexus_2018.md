@@ -254,5 +254,41 @@ Josh Long @13:15 - A402
 #### Building Real World Node.JS Microservices
 James Truitt @14:30 - A411
 
+* Principals of Microservices
+  * Self contains small services implementing a single business capability
+  * Small, independent and loosely coupled
+  * Each service is a separate codebase
+  * Independently deployable
+  * Persist own data or external state
+  * Use well defined APIs to communicate
+  * Can use different technologies, libraries, or frameworks
+  * When to use
+    * Large apps that require high release velocity
+    * Complex highly scaleable apps
+    * Small teams
+  * Benefits
+    * Independent deployments
+    * Independent development
+    * Small, focused teams
+    * Mixed tech stacks
+    * Granular scaling
+  * Challenges
+    * Complexity
+    * Development and integration tests
+    * Team integration
+    * Data integrity
+    * Versioning
+  * Best practices
+    * Model services around business domain
+    * Decentralize everything
+    * Data storage should be private to the service that owns it
+    * Communicate through well defined APIs
+    * Avoid coupling between services
+    * Offloading cross-cutting concerns, such as authorization and SSL termination, to the gateway
+    * Keep domain logic out of the gateway
+* Deployment Options
+  * Containers
+    * Azure Container Services (AKS)
+
 #### Machine Learning Exposed
 James Weaver @15:45 - A403

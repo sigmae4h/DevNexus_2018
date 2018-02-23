@@ -292,3 +292,26 @@ James Truitt @14:30 - A411
 
 #### Machine Learning Exposed
 James Weaver @15:45 - A403
+
+* Twitter: @JavaFXpert
+* Science of getting machines to do things without explicit programming
+* Categories
+  * Supervised Learning
+    * Data provided has correct answers
+    * Example: Iris flower data set
+  * Unsupervised Learning
+    * Data does not contain answers
+    * Machine must find structure in unstructured data
+  * Reinforcement Learning
+    * Rewards given for correct behavior
+* Visualize with TensorFlow tool
+* Anatomy (deep learning)
+  * Input layer
+  * hidden layers
+  * Output layers
+* Library: deepLearningForJ
+  * [deeplearningforj.org](http://www.deeplearningforj.org)
+* Three blue one brown
+* Back propagation: training the network
+* **Book**: Make Your Own Neural Network
+* [TensorFlow playground](http://playground.tensorflow.org)

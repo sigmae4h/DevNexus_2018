@@ -198,3 +198,17 @@ Bruno Borges @17:00 - A404
 
 
 ### Feb 23
+#### SSL/TLS for mortals
+Maarten Mulders @10:00 - A313
+
+#### Enable IoT with Edge Computing and Machine Learning
+Jared Rhodes @11:15 - A305
+
+#### Bootiful Kotlin
+Josh Long @13:15 - A402
+
+#### Building Real World Node.JS Microservices
+James Truitt @14:30 - A411
+
+#### Machine Learning Exposed
+James Weaver @15:45 - A403

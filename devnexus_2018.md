@@ -234,6 +234,23 @@ Jared Rhodes @11:15 - A305
 #### Bootiful Kotlin
 Josh Long @13:15 - A402
 
+* [Code](https://github.com/joshlong/bootiful-kotlin)
+* **Book**: Cloud Native Java
+* Kotlin: Has features that are not yet in Java 10
+* Spring framework 5: 2.0.0 RC2
+  * Contains Kotlin DSL
+* Kotlin
+  * Classes default to final
+    * Kotlin-maven-allopen: Adjusts some Kotlin attributes
+  * Default class getters and setters
+  * Null checking unneeded
+    * Elvis operator is also a part of the language
+  * Expose
+    * org.jetbrains.expose
+    * exposed-spring
+    * Easy way of interfacing with databases
+  * Many external libraries are included
+
 #### Building Real World Node.JS Microservices
 James Truitt @14:30 - A411
 

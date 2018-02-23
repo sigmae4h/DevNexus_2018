@@ -19,11 +19,11 @@ Simon Brown @10:00 - A403
     * Different styles of leadership for different teams
     * Pair architecting
     * Soft skills important
-      * Book: Talking with Tech Leads
+      * **Book**: Talking with Tech Leads
     * Architects write code: be involved
     * Architects should be master builders
       * Must understand technology
-      * Book: Progress Toward an Engineering Dicipine of Software
+      * **Book**: Progress Toward an Engineering Dicipine of Software
 3. UML is not needed
   * Think about abstractions first
   * Focus on communicating intent
@@ -37,7 +37,7 @@ Simon Brown @10:00 - A403
   * Enables agility
     * Microservices / modular monolith
   * Agility is a quality attribute
-  * Book: Clean Architecture, Uncle Bob
+  * **Book**: Clean Architecture, Uncle Bob
 
 #### Continuous Delivery for Data Pipelines
 Sabby Anandan @11:15 - A305
@@ -194,7 +194,7 @@ Bruno Borges @17:00 - A404
   * IF (this) THEN that;
   * Address common integration problems through messaging
   * Apache Camel: Framework that makes integrations easier
-  * Book: Enterprise Integration Patterns
+  * **Book**: Enterprise Integration Patterns
 
 
 ### Feb 23

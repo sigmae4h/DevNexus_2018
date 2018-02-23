@@ -221,6 +221,16 @@ Maarten Mulders @10:00 - A313
 #### Enable IoT with Edge Computing and Machine Learning
 Jared Rhodes @11:15 - A305
 
+1. IoT is everywhere
+  * Electronics are cheep and easy to integrate
+2. Azure IoT Edge
+  * Modules: deploy from cloud to device
+    * Docker container communicate across service bus
+  * Used for immediate response
+  * Edge runtime
+    * Manages modules
+  * Be aware of computational power on IoT devices
+
 #### Bootiful Kotlin
 Josh Long @13:15 - A402
 
